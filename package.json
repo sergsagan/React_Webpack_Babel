@@ -1,0 +1,28 @@
+{
+  "name": "react_webpack_babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zorro76/React_Webpack_Babel.git"
+  },
+  "author": "zorro76 <sergey.martynuk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zorro76/React_Webpack_Babel/issues"
+  },
+  "homepage": "https://github.com/zorro76/React_Webpack_Babel#readme",
+  "dependencies": {
+    "babel-plugin-transform-class-properties": "^6.4.0",
+    "babel-plugin-transform-runtime": "^6.4.3",
+    "babel-polyfill": "^6.3.14",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-register": "^6.4.3"
+  }
+}
